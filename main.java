@@ -4,6 +4,6 @@ class Main{
 		System.out.println("la conexión con github fue exitosa");
 		System.out.println("tercer commit");
 		System.out.println("cuarto commit");
-		System.out.println("cambiando de rama");
+		System.out.println("cambiando de rama")
 	}
 }
